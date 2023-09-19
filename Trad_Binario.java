@@ -1,4 +1,4 @@
-/*O programa rebe um número inteiro que contém somente 0's e 1's
+/*O programa recebe um número inteiro que contém somente 0's e 1's
 (isto é, um número inteiro binário) e imprime seu equivalente decimal.
 Fazendo uma tradução direta baseada em Álgebra Booleana*/
 
